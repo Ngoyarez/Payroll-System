@@ -8,10 +8,10 @@ Password : admin
 **Developed By Brian Ngoya**
 
 START XAMPP, 
-GO TO localhost/phpmyadmin TO CREATE A DATABASE NAMING "payroll_db" AND IMPORT THE SQL FILE TO RUN.
+GO TO localhost/phpmyadmin TO CREATE A DATABASE NAMED "payroll_db" AND IMPORT THE SQL FILE TO RUN.
 WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 
->>DATABASE FILE IS INSIDE "Database (MySQL)" FOLDER!
+>>DATABASE FILE IS INSIDE "Database" FOLDER!
 
 ***REQUIREMENTS***
 
