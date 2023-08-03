@@ -1,3 +1,3 @@
-# Payroll-System-
+# Payroll-System
 
-This is a simple C# system developed using C# Language
+This is a simple Payroll System developed using C# Language
