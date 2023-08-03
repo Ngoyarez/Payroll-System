@@ -38,7 +38,7 @@ namespace PayrollSytem
             }
             if (progressBar1.Value < 100)
             {
-                progressBar1.Value = progressBar1.Value + 100;
+                progressBar1.Value = progressBar1.Value + 10;
                 lblProgress.Text = "Progress..." + progressBar1.Value + "%";
             }
             if (progressBar1.Value == 100)
